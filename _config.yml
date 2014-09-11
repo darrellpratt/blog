@@ -1,0 +1,12 @@
+# Site settings
+title: Cars.com Tech Blog
+email: carsdotcomtech@cars.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to the Cars.com Tech blog. Please reach out to Alex or Darrell if you have any questions or needs.
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://carsdotcomtech.github.io" # the base hostname & protocol for your site
+twitter_username: carsdotcomtech
+github_username:  carsdotcomtech
+
+# Build settings
+markdown: kramdown

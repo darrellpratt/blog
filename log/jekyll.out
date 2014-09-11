@@ -1,0 +1,9 @@
+Configuration file: /opt/jekyll/_config.yml
+            Source: /opt/jekyll
+       Destination: /opt/jekyll/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled for '/opt/jekyll'
+Configuration file: /opt/jekyll/_config.yml
+    Server address: http://0.0.0.0:4000/
+Server detached with pid '6304'. Run `kill -9 6304' to stop the server.
