@@ -20,17 +20,6 @@
   <div data-id="primary-navbar" class="primary-navbar-has-submenu">
     <div class="row grid-layout">
      <a class="logo" href="/" name="&lid=header-home"><img class="cars-logo-img" src="http://graphics.cars.com/images/core/logo.png" alt="Cars.com"></a>
-        <ul data-id="navbar-list" class="navbar-list" data-submenu="has-submenu">
-
-      	<div class="trigger">
-        	{% for page in site.pages %}
-          	{% if page.title %}
-          	<li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-          	{% endif %}
-        	{% endfor %}
-      	</div>
-	</ul>
-    <div class="row-end"></div>
     </div>
   </div>
 </div>
