@@ -8,8 +8,5 @@ url: "http://carsdotcomtech.github.io" # the base hostname & protocol for your s
 twitter_username: carsdotcomtech
 github_username:  carsdotcomtech
 
-paginate: 5
-
-
 # Build settings
 markdown: kramdown
